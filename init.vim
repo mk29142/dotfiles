@@ -1,5 +1,3 @@
-""" Optixal's Neovim Init.vim
-
 """ Vim-Plug
 call plug#begin()
 
