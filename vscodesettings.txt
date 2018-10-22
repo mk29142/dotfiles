@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onFocusChange",
+    "python.linting.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.explorerKind": "external",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontFamily": "Meslo LG L for Powerline",
+    "window.zoomLevel": 0
+}
